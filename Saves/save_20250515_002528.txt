@@ -1,0 +1,7 @@
+Created at Thu May 15 00:25:28 2025
+Stamina:54.0243
+Health:60
+Ammo:0
+Misses:13
+Kills:6
+sKills:2
